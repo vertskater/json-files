@@ -2,28 +2,63 @@
   "card": [
     {
       "id": 1,
-      "name": "mary",
+      "name": "Mary King",
       "img": "mary.jpg"
     },
     {
       "id": 2,
-      "name": "tom",
+      "name": "Tom Sing",
       "img": "tom.jpg"
     },
     {
       "id": 3,
-      "name": "susi",
+      "name": "Susi Melone",
       "img": "susi.jpg"
     },
     {
       "id": 4,
-      "name": "mark",
+      "name": "Mark Frank",
       "img": "mark.jpg"
     },
     {
       "id": 5,
-      "name": "terry",
+      "name": "Terry Long",
       "img": "terry.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Carina Lund",
+      "img": "carina.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Daniel Ubuntu",
+      "img": "daniel.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Hank Only",
+      "img": "hank.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Karl Zimmer",
+      "img": "karl.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Lisa Eni",
+      "img": "lisa.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Lisbeth Pan",
+      "img": "lisbeth.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Sharif Openhouse",
+      "img": "sharif.jpg"
     }
   ]
 }
