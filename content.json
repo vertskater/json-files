@@ -1,9 +1,11 @@
-{
-  "about": {
-    "myStoryParagraphOne": "Hello, I'm Christoph Mitterwallner, a passionate developer with a background in IT and pedagogy. At 37 years old, I bring a wealth of experience and knowledge to the world of web development. Over the years, I have honed my skills and expanded my expertise, making me a versatile and dedicated professional.",
-    "myStoryParagraphTwo": "<span className={styles.marker}>Education and Work Experience:</span> My journey in the tech industry began when I pursued a degree as an IT-Technician. This educational foundation provided me with a solid understanding of the industry's inner workings. I spent a few years working in the field, gaining valuable hands-on experience and refining my problem-solving abilities.",
-    "myStoryParagraphThree": "Driven by a desire to explore the intersection of technology and education, I decided to further my studies in pedagogy with a focus on IT. This academic pursuit allowed me to delve deeper into the educational aspects of the industry, understanding how technology can transform learning environments.",
-    "myStoryParagraphFour": "<span className={styles.marker}>Web Development Journey: </span> Throughout my career and studies, I developed a keen interest in web development. For the past three years, I have been passionately engaged in self-study to enhance my skills in this dynamic field. I have immersed myself in various web technologies, particularly focusing on frontend development.",
-    "myStoryParagraphFive": " My expertise lies in creating captivating and user-friendly interfaces using frameworks and technologies such as React, JavaScript, and TypeScript. Through numerous smaller projects, I have gained valuable hands-on experience, solidifying my understanding of these tools and best practices. Continuously staying updated with the latest trends and advancements, I am committed to delivering modern and efficient solutions."
+[
+  {
+    "about": {
+      "myStoryParagraphOne": "Hello, I'm Christoph Mitterwallner, a passionate developer with a background in IT and pedagogy. At 37 years old, I bring a wealth of experience and knowledge to the world of web development. Over the years, I have honed my skills and expanded my expertise, making me a versatile and dedicated professional.",
+      "myStoryParagraphTwo": "<span className={styles.marker}>Education and Work Experience:</span> My journey in the tech industry began when I pursued a degree as an IT-Technician. This educational foundation provided me with a solid understanding of the industry's inner workings. I spent a few years working in the field, gaining valuable hands-on experience and refining my problem-solving abilities.",
+      "myStoryParagraphThree": "Driven by a desire to explore the intersection of technology and education, I decided to further my studies in pedagogy with a focus on IT. This academic pursuit allowed me to delve deeper into the educational aspects of the industry, understanding how technology can transform learning environments.",
+      "myStoryParagraphFour": "<span className={styles.marker}>Web Development Journey: </span> Throughout my career and studies, I developed a keen interest in web development. For the past three years, I have been passionately engaged in self-study to enhance my skills in this dynamic field. I have immersed myself in various web technologies, particularly focusing on frontend development.",
+      "myStoryParagraphFive": " My expertise lies in creating captivating and user-friendly interfaces using frameworks and technologies such as React, JavaScript, and TypeScript. Through numerous smaller projects, I have gained valuable hands-on experience, solidifying my understanding of these tools and best practices. Continuously staying updated with the latest trends and advancements, I am committed to delivering modern and efficient solutions."
+    }
   }
-}
+]
