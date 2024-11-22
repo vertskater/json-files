@@ -73,7 +73,7 @@
         "title": "React Shopping Cart",
         "description": "A shopping cart created with React. The user can search for products, add them to the cart and delete or edit items. The app uses react router to shor single products and the cart.",
         "image": "shopping-cart.png",
-        "link": "https://vertskater.github.io/shopping-cart/",
+        "link": "https://shopping-cart-six-lac.vercel.app/",
         "github": "https://github.com/vertskater/shopping-cart"
       },
       {
