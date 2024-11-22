@@ -76,6 +76,14 @@
         "link": "https://vertskater.github.io/shopping-cart/",
         "github": "https://github.com/vertskater/shopping-cart"
       },
+      {
+        "id": "9",
+        "title": "My-Drive",
+        "description": "This project is a file management system built using Express.js, Prisma, and Passport.js. It allows users to authenticate using session-based authentication, upload files to specific folders, and view file details. The files are stored in a cloud storage service (e.g., Supabase or Cloudinary), and all session data is persisted in a database using Prisma session store.",
+        "image": "my-drive.png",
+        "link": "https://my-drive-production.up.railway.app"
+        "github": "https://github.com/vertskater/my-drive"
+      },
        {
         "id": "6",
         "title": "PHP Webshop",
