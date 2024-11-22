@@ -57,7 +57,7 @@
         "title": "React Bookshelf",
         "description": "A bookshelf app created with React. The app uses the Google Firebase to save Books. The user can search for books and add them to the bookshelf. The user can also delete books from the bookshelf and there is a login possibility with Google.",
         "image": "bookshelf.png",
-        "link": "https://bookshelf-9df37.firebaseapp.com/",
+        "link": "https://bookshelf-fs-git-new-vertskaters-projects.vercel.app/",
         "github": "https://github.com/vertskater/bookshelf-fs"
       },
       {
