@@ -82,7 +82,22 @@
         "description": "This small project demonstrates a webshop without a checkout or payment system. The focus of the app is the shopping cart, which stores products as a session for non-logged-in users. Logged-in users (users can register) will have their products saved in the database. Additionally, there is a small admin dashboard. In the dashboard (accessible only to users with admin rights), statistics are displayed. Furthermore, new users can be created, and user roles can be modified here. In the admin area, categories and products can be created and edited, similar to a small CMS system.",
         "image": "php8.png",
         "github": "https://github.com/vertskater/php-webshop"
-      }
+      },
+       {
+        "id": "7",
+        "title": "Blog API",
+        "description": "A RESTful API for a blog platform, supporting user registration, authentication, post and comment management, user role-based access control, and API key rate limiting. The project uses Node.js, Express, Prisma, Passport, and JWT.",
+        "image": "express.png",
+        "github": "https://github.com/vertskater/blog-api"
+      },
+        {
+        "id": "8",
+        "title": "WordPress Theme",
+        "description": "A fully working WordPress-Theme",
+        "image": "wordpress.png",
+        "github": "https://github.com/vertskater/wp_theme_edvgraz/tree/master/themes"
+      },
+  
     ]
   }
 ]
