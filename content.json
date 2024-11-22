@@ -3,7 +3,7 @@
     "id": "about",
     "textContent": [
       {
-        "text": "Hello, I'm Christoph Mitterwallner, a passionate developer with a background in IT and pedagogy. At 37 years old, I bring a wealth of experience and knowledge to the world of web development. Over the years, I have honed my skills and expanded my expertise, making me a versatile and dedicated professional."
+        "text": "Hello, I'm Christoph Mitterwallner, a passionate developer with a background in IT and pedagogy. At 39 years old, I bring a wealth of experience and knowledge to the world of web development. Over the years, I have honed my skills and expanded my expertise, making me a versatile and dedicated professional."
       },
       {
         "text": "Education and Work Experience: My journey in the tech industry began when I pursued a degree as an IT-Technician. This educational foundation provided me with a solid understanding of the industry's inner workings. I spent a few years working in the field, gaining valuable hands-on experience and refining my problem-solving abilities."
@@ -75,6 +75,13 @@
         "image": "shopping-cart.png",
         "link": "https://vertskater.github.io/shopping-cart/",
         "github": "https://github.com/vertskater/shopping-cart"
+      },
+       {
+        "id": "6",
+        "title": "PHP Webshop",
+        "description": "This small project demonstrates a webshop without a checkout or payment system. The focus of the app is the shopping cart, which stores products as a session for non-logged-in users. Logged-in users (users can register) will have their products saved in the database. Additionally, there is a small admin dashboard. In the dashboard (accessible only to users with admin rights), statistics are displayed. Furthermore, new users can be created, and user roles can be modified here. In the admin area, categories and products can be created and edited, similar to a small CMS system.",
+        "image": "php8.png",
+        "github": "https://github.com/vertskater/php-webshop"
       }
     ]
   }
